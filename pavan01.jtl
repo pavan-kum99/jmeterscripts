@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="923" it="0" lt="923" ct="747" ts="1674296439829" s="true" lb="launch-6" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="1442" sby="691" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/</java.net.URL>
+</httpSample>
+<sample t="923" it="110" lt="923" ct="747" ts="1674296439724" s="true" lb="launch" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1442" sby="691" ng="1" na="1"/>
+<httpSample t="155" it="0" lt="154" ct="0" ts="1674296440759" s="true" lb="enter the store-7" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="5419" sby="735" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="155" it="12" lt="154" ct="0" ts="1674296440758" s="true" lb="enter the store" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5419" sby="735" ng="1" na="1"/>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1674296440927" s="true" lb="signin-22" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3849" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=BEA39BA787FCEABB388AC39DDD1BD103?signonForm=</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="156" ct="0" ts="1674296441088" s="true" lb="signin-23" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3849" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=BEA39BA787FCEABB388AC39DDD1BD103?signonForm=</java.net.URL>
+</httpSample>
+<sample t="314" it="6" lt="314" ct="0" ts="1674296440926" s="true" lb="signin" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7698" sby="1732" ng="1" na="1"/>
+
+<httpSample t="848" it="0" lt="848" ct="685" ts="1674296575258" s="true" lb="launch-6" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="1442" sby="691" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/</java.net.URL>
+</httpSample>
+<sample t="848" it="84" lt="848" ct="685" ts="1674296575184" s="true" lb="launch" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1442" sby="691" ng="1" na="1"/>
+<httpSample t="147" it="0" lt="146" ct="0" ts="1674296576117" s="true" lb="enter the store-7" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="5419" sby="735" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="147" it="8" lt="146" ct="0" ts="1674296576116" s="true" lb="enter the store" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5419" sby="735" ng="1" na="1"/>
+<httpSample t="152" it="0" lt="152" ct="0" ts="1674296576273" s="true" lb="signin-22" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3843" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=23B686C63A4655A7CB3EFB41371239C3?signonForm=</java.net.URL>
+</httpSample>
+<httpSample t="142" it="0" lt="142" ct="0" ts="1674296576427" s="true" lb="signin-23" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3847" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=23B686C63A4655A7CB3EFB41371239C3?signonForm=</java.net.URL>
+</httpSample>
+<sample t="294" it="4" lt="294" ct="0" ts="1674296576272" s="true" lb="signin" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7690" sby="1732" ng="1" na="1"/>
+
+<httpSample t="927" it="0" lt="926" ct="757" ts="1674297052992" s="true" lb="launch-6" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="1442" sby="691" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/</java.net.URL>
+</httpSample>
+<sample t="927" it="77" lt="926" ct="757" ts="1674297052924" s="true" lb="launch" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1442" sby="691" ng="1" na="1"/>
+<httpSample t="157" it="0" lt="156" ct="0" ts="1674297053930" s="true" lb="enter the store-7" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="5419" sby="735" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="157" it="10" lt="156" ct="0" ts="1674297053929" s="true" lb="enter the store" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5419" sby="735" ng="1" na="1"/>
+<httpSample t="152" it="0" lt="152" ct="0" ts="1674297054098" s="true" lb="signin-22" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3845" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=CCA84940816D0485726349A3A79B4B7D?signonForm=</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="150" ct="0" ts="1674297054252" s="true" lb="signin-23" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3851" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=CCA84940816D0485726349A3A79B4B7D?signonForm=</java.net.URL>
+</httpSample>
+<sample t="302" it="5" lt="302" ct="0" ts="1674297054097" s="true" lb="signin" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7696" sby="1732" ng="1" na="1"/>
+
+<httpSample t="932" it="0" lt="931" ct="753" ts="1674297544991" s="true" lb="launch-6" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="1442" sby="691" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/</java.net.URL>
+</httpSample>
+<sample t="932" it="86" lt="931" ct="753" ts="1674297544918" s="true" lb="launch" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1442" sby="691" ng="1" na="1"/>
+<httpSample t="153" it="0" lt="152" ct="0" ts="1674297545939" s="true" lb="enter the store-7" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="5419" sby="735" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="153" it="12" lt="152" ct="0" ts="1674297545938" s="true" lb="enter the store" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5419" sby="735" ng="1" na="1"/>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1674297546104" s="true" lb="signin-22" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3849" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=1C0B5B6BF3410B75908985D93D8FCBB3?signonForm=</java.net.URL>
+</httpSample>
+<httpSample t="151" it="0" lt="151" ct="0" ts="1674297546260" s="true" lb="signin-23" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3847" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=1C0B5B6BF3410B75908985D93D8FCBB3?signonForm=</java.net.URL>
+</httpSample>
+<sample t="304" it="5" lt="304" ct="0" ts="1674297546104" s="true" lb="signin" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7696" sby="1732" ng="1" na="1"/>
+
+<httpSample t="917" it="0" lt="917" ct="753" ts="1674298981607" s="true" lb="launch-6" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="1442" sby="691" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/</java.net.URL>
+</httpSample>
+<sample t="917" it="91" lt="917" ct="753" ts="1674298981528" s="true" lb="launch" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="1442" sby="691" ng="1" na="1"/>
+<httpSample t="154" it="0" lt="153" ct="0" ts="1674298982537" s="true" lb="enter the store-7" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="5419" sby="735" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<sample t="154" it="11" lt="153" ct="0" ts="1674298982537" s="true" lb="enter the store" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5419" sby="735" ng="1" na="1"/>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1674298982703" s="true" lb="signin-22" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3849" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=E10D5BB6DD95D12CF50E94EA81F89520?signonForm=</java.net.URL>
+</httpSample>
+<httpSample t="151" it="0" lt="151" ct="0" ts="1674298982858" s="true" lb="signin-23" rc="200" rm="" tn="Thread Group 1-1" dt="text" by="3849" sby="866" ng="1" na="1">
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action;jsessionid=E10D5BB6DD95D12CF50E94EA81F89520?signonForm=</java.net.URL>
+</httpSample>
+<sample t="304" it="5" lt="304" ct="0" ts="1674298982702" s="true" lb="signin" rc="200" rm="Number of samples in transaction : 2, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="7698" sby="1732" ng="1" na="1"/>
+
+</testResults>
